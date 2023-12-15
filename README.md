@@ -6,14 +6,6 @@
 
 Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using Vanilla JavaScript and Node.JS, ExpressJS and MongoDB.
 
-## Watch YouTube Video
-[https://www.youtube.com/watch?v=N3FDyheHVMM](https://www.youtube.com/watch?v=N3FDyheHVMM)
-
-## Demo Website
-
-- 👉 Heroku : [https://jsamazona.herokuapp.com](https://jsamazona.herokuapp.com)
-- 👉 AWS : [https://jsamazona.webacademy.pro](https://jsamazona.webacademy.pro)
-
 
 ## You Will Learn
 
@@ -30,7 +22,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/node-javascript-ecommerce.git
+$ git clone https://github.com/Superstar0107/node-javascript-ecommerce.git
 $ cd node-javascript-ecommerce
 ```
 
@@ -79,10 +71,6 @@ $ npm start
 - Enter Product Information
 - Go to home page (http://localhost:8080) and test Ecommerce Website
 
-## Support
-
-- Q/A: https://codingwithbasir.com
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
 
 
 # Features
